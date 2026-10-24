@@ -1,0 +1,8 @@
+[project]
+name = "comfyui-krea2edit-dynamic"
+description = "Per-region reference weights for the Krea 2 Identity Edit patch: a multiplier map over the reference instead of one boost inside a thresholded mask."
+version = "0.1.0"
+license = { file = "LICENSE" }
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
